@@ -54,7 +54,7 @@ The following steps were taken to prepare the data set according to project requ
   - subject_train.txt and subject_test.txt were combined
   - y_train.txt and y_test.txt were combined
   - variables were labeled according to features.txt
-- extracted mean and standard deviation records for each measurementi
+- extracted mean and standard deviation records for each measurement
   - intermediate data set including variables with labels that contain mean and standard deviation(std) in their names
 - assigned descriptive activity names
   - activity values were recoded with descriptive names according to activity_labels.txt
