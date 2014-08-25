@@ -5,7 +5,7 @@ This project is designed to demonstrate proficiency in collecting, manipulating 
 This submission includes:
 - a tidy data set
 - a script for performing the required analysis (run_analysis.R)
-- a code book that describes the the data and it was cleaned up
+- a code book that describes the the data and how it was cleaned up
 - a README.md that explains how the project was carried out
 
 Data source
